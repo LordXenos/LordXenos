@@ -5,7 +5,7 @@
 <div align="center">
   
   <img
- src="https://i.imgur.com/KwSfWse.jpeg">
+ src="https://avatars.githubusercontent.com/u/261246405?v=4&size=780">
  </div>
 
 
@@ -13,12 +13,12 @@
 </div>
 <div align="center">
   <img
-src="https://i.imgur.com/0oMyepf.gif" align="center"
+src="https://i.imgur.com/vd56IMw.gif" align="center"
 	  width="500"> 
 </div>
 <div>
   <div align="center">
-    <img src="https://i.imgur.com/3ROPcqH.jpeg" align="right" width="170" height="270">
+    <img src="https://i.imgur.com/ig4rrIu.jpeg" align="right" width="170" height="270">
 
 <dl>
     <dt align="left"><strong>Name:</strong></dt>
