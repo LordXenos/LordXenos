@@ -2,17 +2,17 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=45&pause=500&color=00F2FF&center=true&vCenter=true&width=800&height=120&lines=%E2%80%B9+%E2%96%93+WELCOME+TO+XENOS+PROFILE+%E2%96%93+%E2%80%BA;%E2%9A%9B+INITIALIZING+CYBERCORE...+;%E2%96%AC%E2%96%AC%E2%96%AC+ACCESS+GRANTED+%E2%96%AC%E2%96%AC%E2%96%AC" alt="Xenos Header" />
 
-<br>
+<br><br>
 
-<img src="https://avatars.githubusercontent.com/u/261246405?v=4" width="160" style="border-radius: 20px; border: 2px solid #00f2ff; box-shadow: 0 0 15px #00f2ff, 0 0 30px #7000ff;"/>
+<img 
+src="https://avatars.githubusercontent.com/u/261246405?v=4" width="300" style="border-radius: 20px; border: 2px solid #00f2ff; box-shadow: 0 0 15px #00f2ff, 0 0 30px #7000ff;"/>
 
 <br><br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=28&pause=1000&color=00F2FF&center=true&vCenter=true&width=500&lines=ᯓ  ✈︎+INITIALIZING+SYSTEM...;%E2%96%BA+ACCESS+GRANTED%3A+XENOS;%E2%9A%9B+FULL+STACK+DEVELOPER;%E2%97%86+IT'S+ME+XENOS" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=28&pause=1000&color=00F2FF&center=true&vCenter=true&width=500&lines=!!+INITIALIZING+SYSTEM...;%E2%96%BA+ACCESS+GRANTED%3A+XENOS;%E2%9A%9B+FULL+STACK+DEVELOPER;%E2%97%86+IT'S+ME+XENOS" alt="Typing SVG" />
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=LordXenos&label=SYSTEM+ACCESS&color=00f2ff&style=for-the-badge" alt="Views" />
-</p>
+  <img src="https://img.shields.io/badge/SECURITY-LEVEL_MAX-00f2ff?style=for-the-badge&logo=codeproject&logoColor=black" />
 
 ---
 
@@ -24,9 +24,9 @@
     <td width="500">
       <p align="left">
         <kbd>☠️ 𝖀𝖘𝖊𝖗𝖓𝖆𝖒𝖊:</kbd> <code>乛 Xꫀᥒos ゎ</code> <br>
-        <kbd>⚡ 𝕾𝖙𝖆𝖙𝖚𝖘:</kbd> <code>Digital Nomad / Dev</code> <br>
+        <kbd>⚡ 𝕾𝖙𝖆𝖙𝖚𝖘:</kbd> <code>Developer</code> <br>
         <kbd>🧬 𝕯𝕹𝕬:</kbd> <code>Anime • Code • Gaming</code> <br>
-        <kbd>📍 𝕹𝖔𝖉𝖊:</kbd> <code>Bangladesh (Region-880)</code>
+        <kbd>📍 𝕹𝖔𝖉𝖊:</kbd> <code>Bangladesh (Khulna)</code>
       </p>
       <p align="left">
         <img src="https://skillicons.dev/icons?i=js,py,nodejs,react,html,css,git,mongodb,vscode&theme=dark" />
@@ -42,17 +42,18 @@
 
 ###  「 𝕹𝖊𝖙𝖜𝖔𝖗𝖐 & 𝕮𝖔𝖒𝖒𝖘 」
 <p align="center">
-<a href="https://sifuapis.vercel.app"><img src="https://img.shields.io/badge/CORE_WEB-000000?style=for-the-badge&logo=google-chrome&logoColor=00f2ff" /></a>
-<a href="https://t.me/ewr_sifu"><img src="https://img.shields.io/badge/ENCRYPTED_MSG-000000?style=for-the-badge&logo=telegram&logoColor=00f2ff" /></a>
-<a href="https://wa.me/+8801320645204"><img src="https://img.shields.io/badge/SECURE_LINE-000000?style=for-the-badge&logo=whatsapp&logoColor=00f2ff" /></a>
+<a href="https://sifuapis.vercel.app"><img src="https://img.shields.io/badge/WEBSITE-000000?style=for-the-badge&logo=google-chrome&logoColor=00f2ff" /></a>
+<a href="https://t.me/ewr_sifu"><img src="https://img.shields.io/badge/TG-000000?style=for-the-badge&logo=telegram&logoColor=00f2ff" /></a>
+<a href="https://wa.me/+8801320645204"><img src="https://img.shields.io/badge/WHATSAPP-000000?style=for-the-badge&logo=whatsapp&logoColor=00f2ff" /></a>
+<a href="https://fb.com/search/@Maybexenos"><img src="https://img.shields.io/badge/MASSANGER-000000?style=for-the-badge&logo=Facebook&logoColor=00f2ff" /></a>
 </p>
 
 ---
 
-###  「 𝕾𝖞𝖘𝖙𝖊𝖒%20𝕬𝖓𝖆𝖑𝖞𝖙𝖎𝖈𝖘 」
+###  「 𝕾𝖞𝖘𝖙𝖊𝖒_𝕬𝖓𝖆𝖑𝖞𝖙𝖎𝖈𝖘 」
 <p align="center">
   <img width="48%" src="https://github-readme-stats-salesp07.vercel.app/api?username=LordXenos&count_private=true&show_icons=true&theme=transparent&title_color=00f2ff&text_color=ffffff&icon_color=7000ff&border_color=00f2ff&border_radius=15" />
-  <img width="48%" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=Ewr-sifu&count_private=true&theme=transparent&stroke=00f2ff&fire=7000ff&ring=00f2ff&currStreakLabel=00f2ff&border=00f2ff&border_radius=15" />
+  <img width="48%" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=LordXenos&count_private=true&theme=transparent&stroke=00f2ff&fire=7000ff&ring=00f2ff&currStreakLabel=00f2ff&border=00f2ff&border_radius=15" />
 </p>
 
 ---
@@ -78,7 +79,7 @@
 
 <br>
 
-### 🔋 𝕾𝖞𝖘𝖙𝖊𝖒 𝕺𝖋𝖋𝖑𝖎𝖓𝖊...
-**[ 𝖤𝖷𝖨𝖳_𝖯𝖱𝖮𝖳𝖮𝖢𝖮𝖫_𝟤𝟢𝟤𝟨 ]**
+### ┌∩┐(◣_◢)┌∩┐
+**[ © 乛 Xꫀᥒos ゎ_ ]**
 
 </div>
