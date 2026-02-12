@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=1a1b26&height=200&section=header&text=%E2%96%93%20%F0%9D%90%17%F0%9D%90%04%F0%9D%90%0D%F0%9D%90%0E%F0%9D%90%12%20%E2%96%93&fontSize=80&fontColor=00f2ff&animation=glitch" />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=45&pause=500&color=00F2FF&center=true&vCenter=true&width=800&height=120&lines=%E2%80%B9+%E2%96%93+WELCOME+TO+XENOS+PROFILE+%E2%96%93+%E2%80%BA;%E2%9A%9B+INITIALIZING+CYBERCORE...+;%E2%96%AC%E2%96%AC%E2%96%AC+ACCESS+GRANTED+%E2%96%AC%E2%96%AC%E2%96%AC" alt="Xenos Header" />
 
 <br>
 
@@ -8,7 +8,7 @@
 
 <br><br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=28&pause=1000&color=00F2FF&center=true&vCenter=true&width=500&lines=%E2%8C%9B+INITIALIZING+SYSTEM...;%E2%96%BA+ACCESS+GRANTED%3A+XENOS;%E2%9A%9B+FULL+STACK+ARCHITECT;%E2%97%86+CYBER+ENTHUSIAST" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=28&pause=1000&color=00F2FF&center=true&vCenter=true&width=500&lines=ᯓ  ✈︎+INITIALIZING+SYSTEM...;%E2%96%BA+ACCESS+GRANTED%3A+XENOS;%E2%9A%9B+FULL+STACK+DEVELOPER;%E2%97%86+IT'S+ME+XENOS" alt="Typing SVG" />
 
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=LordXenos&label=SYSTEM+ACCESS&color=00f2ff&style=for-the-badge" alt="Views" />
